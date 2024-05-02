@@ -1,6 +1,9 @@
 <h1 align="center">BackEnd: Reddit Clone Project</h1>
 <h3 align="center">With Java,SpringBoot</h3>
 
+- 👨‍💻 This project serves as a testament to my proficiency in developing backend applications utilizing SpringBoot within a monolithic and RESTful architecture.
+- 👥 This project in short is a simple clone of the Reddit application.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/http://akramyoussoufi.uk.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://akramyoussoufi.uk.to/" height="30" width="40" /></a>
