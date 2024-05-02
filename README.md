@@ -3,6 +3,7 @@
 
 - 👨‍💻 This project serves as a testament to my proficiency in developing backend applications utilizing SpringBoot within a monolithic and RESTful architecture.
 - 👥 This project in short is a simple clone of the Reddit application.
+- frontend side [reddit-clone-frontend](https://github.com/AkramYoussoufi/redditclone-front-end-angular)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
